@@ -431,6 +431,7 @@ export default function AnalyticsPage() {
         </CardContent>
       </Card>
     </div>
-  );
+   );
+}  // <-- Close the AnalyticsPage function
 
     
